@@ -15,7 +15,7 @@ export {divStyle}
 
 //styles for the input box and button in colour.tsx
 const inputStyle:CSSProperties = {
-    color: 'black',
+    color: 'purple',
     backgroundColor: 'white',
     border: '1px solid black',
     borderRadius: '5px',
