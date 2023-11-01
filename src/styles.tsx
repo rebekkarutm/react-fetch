@@ -19,6 +19,5 @@ const inputStyle:CSSProperties = {
     backgroundColor: 'white',
     border: '1px solid black',
     borderRadius: '5px',
-    alignItems: 'center',
 }
 export {inputStyle}

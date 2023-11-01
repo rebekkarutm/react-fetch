@@ -24,7 +24,7 @@ function App() {
   
   //returning the components with the colourStyle (so I can connect it in the corresponding files) and display flex
   return (
-    <div style={{display: 'flex'}}>
+    <div style={{display: 'flex', justifyContent: 'center', marginTop: '100px'}}>
       <Quote style={colourStyle}></Quote>
       <Colour style={colourStyle} colour = {colour} setColour = {setColour}></Colour>
       <Fact style={colourStyle}></Fact>
